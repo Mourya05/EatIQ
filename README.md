@@ -124,8 +124,8 @@ EatIQ/
 ## 👨‍💻 Author
 
 **Mourya**  
-📧 *[Your email here]*  
-🌐 [GitHub Profile](https://github.com/your-username)
+📧 *[mourya.birru@gmail.com]*  
+🌐 [GitHub Profile](https://github.com/Mourya05)
 
 ---
 
