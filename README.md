@@ -138,4 +138,4 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 > “EatIQ is more than an app — it’s your AI-powered nutrition companion.”  
 > Made with ❤️ and ☕ by Mourya
 
-<!-- copilot-tick 2026-01-17T04:55:09.216Z -->
+
